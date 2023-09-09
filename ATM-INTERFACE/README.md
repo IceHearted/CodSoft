@@ -29,7 +29,7 @@ Welcome to the **Interactive ATM Simulation** project! This Java application bri
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/IceHearted/OIBSIP_ATM-INTERFACE.git
+   git clone https://github.com/IceHearted/CodSoft/ATM-INTERFACE.git
    ```
 
 
