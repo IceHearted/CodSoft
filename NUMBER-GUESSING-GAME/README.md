@@ -25,7 +25,8 @@ Welcome to the Number Guessing Game! This interactive Java game challenges you t
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/IceHearted/OIBSIP_NUMBER-GUESSING-GAME.git
+   git clone https://github.com/IceHearted/CodSoft/NUMBER-GUESSING-GAME.git
+   
    ```
 
 2. Open the project in your Java IDE.
