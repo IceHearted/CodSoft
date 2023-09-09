@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InteractiveStudentGradeCalculator",
+            "request": "launch",
+            "mainClass": "InteractiveStudentGradeCalculator",
+            "projectName": "STUDENT GRADE CALCULATOR_8ef7efea"
+        },
+        {
+            "type": "java",
+            "name": "StudentGradeCalculator",
+            "request": "launch",
+            "mainClass": "StudentGradeCalculator",
+            "projectName": "STUDENT GRADE CALCULATOR_8ef7efea"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "STUDENT GRADE CALCULATOR_8ef7efea"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
